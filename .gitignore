@@ -135,4 +135,6 @@ features_extractions/Doc2Vec/*
 features_extractions/French-Word-Embeddings/*
 data/*
 clustering/dataset/*
+parameter_optimization/data/*
+parameter_optimization/input/*
 
