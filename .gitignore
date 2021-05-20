@@ -134,8 +134,8 @@ features_extractions/Word2Vec/output/*
 features_extractions/output/*
 features_extractions/speech_features/*
 features_extractions/Doc2Vec/*
-features_extractions/French-Word-Embeddings
-features_extractions/French-Word-Embeddings
+features_extractions/French-Word-Embeddings/*
+features_extractions/French-Word-Embeddings/*
 data/*
 clustering/dataset/*
 parameter_optimization/data/*
