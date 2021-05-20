@@ -140,3 +140,7 @@ data/*
 clustering/dataset/*
 parameter_optimization/data/*
 parameter_optimization/input/*
+
+
+# gitignore 
+.gitignore.swp
